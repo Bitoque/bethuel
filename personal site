@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Βἶtὂqὗe®</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="icon" href="icon.png">
+    <link href="https://fonts.googleapis.com/css2?family=Kameron&family=Merriweather&family=Montserrat&family=Sacramento&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <div class="top-container">
+      <img class="top-cloud"src="images/cloud.png" alt="cloud-img">
+      <h1>I'm Bëthὗeἵ</h1>
+      <h2>a <span class="pro">pro</span>grammer.</h2>
+        <img class="bottom-cloud"src="images/cloud.png" alt="cloud-img">
+        <img src="images/mountain.png" alt="mountain-img">
+    </div>
+    <div class="middle-container">
+  <div class="profile">
+    <img class="prof" src="images/profile.png" alt="profile-img">
+    <h2>Hello.</h2>
+    <p class="intro">Its really cool to be writting this article just to give you some few understanding on how really programming and coding are interesting. Most of my free time i really like to be on my computer doing something, it keeps me cool and relaxed.</p>
+  </div>
+  <hr>
+  <div class="skills">
+    <h2>My Skills.</h2>
+    <div class="skill-row">
+      <img class="code-img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4bvGY_7k_7WXJU_PspjUcsXRZI3bGKgeh-A&usqp=CAU" alt="coding & programming">
+      <h3>Coding & Programming</h3>
+      <p>Coding is a skill am really pushing alot of time in it in oder to to perfect it, i understand that it takes alot of practise to perfect the skill and am gona deticate my time in mastering the skill. Programming comes in handy with coding where after executing some codes programming will help in analyzing a problem in a
+        code and providing solution.</p>
+    </div>
+    <div class="skill-row">
+      <img class="game-img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYbv5SY74_WgzwgP8DM02cPAWdbIStjc6cVQ&usqp=CAU" alt="gaming">
+      <h3>Gaming</h3>
+      <p>Gaming is what makes me relaxed after a hard struggle on debugging, i do play alot of open world games and i really recommend <strong> <em>Last of us</em></strong> for those who have not tried it.</p>
+    </div>
+  </div>
+  <hr>
+  <div class="contact-me">
+    <h3>Get In Touch</h3>
+    <h4>Do you like gaming and coding?.</h4>
+    <p class="cm">If you do just contact me so that we will discuss more about it.</p>
+    <a class="btn" href="mailto:bethubittok@gmail.com">CONTACT ME</a>
+  </div>
+</div>
+
+
+<div class="bottom-container">
+  <a class="footer-link" href="https://www.facebook.com/profile.php?id=100008876940109">facebook</a>
+  <a class="footer-link" href="https://www.instagram.com/bitoque007/">Instagram</a>
+  <a class="footer-link" href="https://twitter.com/bitoque007">Twitter</a>
+  <p class="cr">© 2021 Bitoque.</p>
+</div>
+
+  </body>
+</html>
